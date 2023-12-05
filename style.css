@@ -1,0 +1,30 @@
+.block-1 {
+    background-color: #ff7f50;
+}
+
+.block-2 {
+    background-color: #7fffd4;
+}
+
+.block-3 {
+    background-color: #ffebcd;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px;
+}
+
+h1 {
+    color: #000000;
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+img.octocat {
+    height: 200px;
+    margin: 20px;
+}
+
